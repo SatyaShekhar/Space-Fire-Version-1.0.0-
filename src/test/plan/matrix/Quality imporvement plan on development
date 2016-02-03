@@ -1,0 +1,10 @@
+
+1. UVT / IVT
+2. Performance optimization
+3. Synchronization
+4. Coverity adoption
+5. Graphics utilision (memory for images). re usability of images for different objects of same type
+6. Pre loading to improve runtime performance
+7. Better naming convention
+8. Code review and addressing comments
+9. Code optimization

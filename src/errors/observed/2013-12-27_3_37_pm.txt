@@ -1,0 +1,12 @@
+Exception in thread "Thread-3" java.lang.IndexOutOfBoundsException: Index: 23, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at java.util.Collections$SynchronizedList.get(Unknown Source)
+	at space.scraft.SpaceScraftStarter.run(SpaceScraftStarter.java:315)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "Thread-4" java.lang.IndexOutOfBoundsException: Index: 33, Size: 33
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at java.util.Collections$SynchronizedList.get(Unknown Source)
+	at space.scraft.SpaceScraftStarter.run(SpaceScraftStarter.java:315)
+	at java.lang.Thread.run(Unknown Source)

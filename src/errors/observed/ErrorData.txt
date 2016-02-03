@@ -1,0 +1,292 @@
+Frame width and height  : 816::591
+One life reduced total remaining life 3
+Frame width and height  : 816::591
+One life reduced total remaining life 2
+Frame width and height  : 816::591
+One life reduced total remaining life 1
+Frame width and height  : 816::591
+One life reduced total remaining life 0
+Frame width and height  : 816::591
+One life reduced total remaining life -1
+No lifes remaining ... end game and ask to restart
+Frame width and height  : 816::591
+One life reduced total remaining life -2
+Frame width and height  : 816::591
+One life reduced total remaining life -3
+Frame width and height  : 816::591
+One life reduced total remaining life -4
+Frame width and height  : 816::591
+One life reduced total remaining life -5
+Frame width and height  : 816::591
+One life reduced total remaining life -6
+Frame width and height  : 816::591
+One life reduced total remaining life -7
+Frame width and height  : 816::591
+One life reduced total remaining life -8
+Frame width and height  : 816::591
+One life reduced total remaining life -9
+Frame width and height  : 816::591
+One life reduced total remaining life -10
+Frame width and height  : 816::591
+One life reduced total remaining life -11
+Frame width and height  : 816::591
+One life reduced total remaining life -12
+Frame width and height  : 816::591
+One life reduced total remaining life -13
+Frame width and height  : 816::591
+One life reduced total remaining life -14
+Frame width and height  : 816::591
+One life reduced total remaining life -15
+Frame width and height  : 816::591
+One life reduced total remaining life -16
+Frame width and height  : 816::591
+One life reduced total remaining life -17
+Frame width and height  : 816::591
+One life reduced total remaining life -18
+Frame width and height  : 816::591
+One life reduced total remaining life -19
+Frame width and height  : 816::591
+One life reduced total remaining life -20
+Frame width and height  : 816::591
+One life reduced total remaining life -21
+Frame width and height  : 816::591
+One life reduced total remaining life -22
+Frame width and height  : 816::591
+One life reduced total remaining life -23
+Frame width and height  : 816::591
+One life reduced total remaining life -24
+Frame width and height  : 816::591
+One life reduced total remaining life -25
+Frame width and height  : 816::591
+One life reduced total remaining life -26
+Frame width and height  : 816::591
+One life reduced total remaining life -27
+Frame width and height  : 816::591
+One life reduced total remaining life -28
+Frame width and height  : 816::591
+One life reduced total remaining life -29
+Frame width and height  : 816::591
+One life reduced total remaining life -30
+Frame width and height  : 816::591
+One life reduced total remaining life -31
+Frame width and height  : 816::591
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+One life reduced total remaining life -32
+Frame width and height  : 816::591
+Exception in thread "Thread-3" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.run(SpaceScraftStarter.java:312)
+	at java.lang.Thread.run(Unknown Source)
+One life reduced total remaining life -33
+Frame width and height  : 816::591
+One life reduced total remaining life -34
+Frame width and height  : 816::591
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+One life reduced total remaining life -35
+Frame width and height  : 816::591
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "AWT-EventQueue-1" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.paint(SpaceScraftStarter.java:128)
+	at space.scraft.SpaceScraftStarter.update(SpaceScraftStarter.java:114)
+	at sun.awt.RepaintArea.updateComponent(Unknown Source)
+	at sun.awt.RepaintArea.paint(Unknown Source)
+	at sun.awt.windows.WComponentPeer.handleEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Exception in thread "Thread-4" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(Unknown Source)
+	at java.util.ArrayList$Itr.next(Unknown Source)
+	at space.scraft.SpaceScraftStarter.run(SpaceScraftStarter.java:312)
+	at java.lang.Thread.run(Unknown Source)
+One life reduced total remaining life -36
+Frame width and height  : 816::591
+One life reduced total remaining life -37
+Frame width and height  : 816::591
+One life reduced total remaining life -38
+Frame width and height  : 816::591
+One life reduced total remaining life -39
+Frame width and height  : 816::591
+One life reduced total remaining life -40
+Frame width and height  : 816::591
+One life reduced total remaining life -41
+Frame width and height  : 816::591
+One life reduced total remaining life -42
+Frame width and height  : 816::591
+One life reduced total remaining life -43
+Frame width and height  : 816::591
+One life reduced total remaining life -44
+Frame width and height  : 816::591
+One life reduced total remaining life -45
+Frame width and height  : 816::591
+One life reduced total remaining life -46
+Frame width and height  : 816::591
+One life reduced total remaining life -47
+Frame width and height  : 816::591
+One life reduced total remaining life -48
+Frame width and height  : 816::591
+One life reduced total remaining life -49
+Frame width and height  : 816::591

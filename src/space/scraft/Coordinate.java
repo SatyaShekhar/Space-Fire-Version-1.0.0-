@@ -4,7 +4,7 @@
 package space.scraft;
 
 /**
- * @author sbarik
+ * @author Satya Shekhar Barik
  *
  */
 public class Coordinate {

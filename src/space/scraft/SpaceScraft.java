@@ -10,7 +10,7 @@ import space.scraft.topics.Bullet;
 import space.scraft.topics.Item;
 
 /**
- * @author sbarik
+ * @author Satya Shekhar Barik
  * 
  */
 public class SpaceScraft {

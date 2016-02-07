@@ -4,7 +4,7 @@ import java.awt.Image;
 
 /**
  * 
- * @author sbarik
+ * @author Satya Shekhar Barik
  *
  */
 public class Fire {

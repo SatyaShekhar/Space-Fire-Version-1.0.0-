@@ -6,6 +6,11 @@ import java.awt.Graphics;
 import space.scraft.topics.Enemy;
 import space.scraft.topics.Item;
 
+/**
+ * 
+ * @author Satya Shekhar Barik
+ *
+ */
 public class ProgressBarHelper {
 
     public static void displayBar(Graphics g, int progressX, int progressY, SpaceScraft spaceScraft) {

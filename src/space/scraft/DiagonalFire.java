@@ -1,5 +1,10 @@
 package space.scraft;
 
+/**
+ * 
+ * @author Satya Shekhar Barik
+ *
+ */
 public class DiagonalFire extends Fire {
     Direction direction;
     public DiagonalFire(int x, int y, Direction direction) {

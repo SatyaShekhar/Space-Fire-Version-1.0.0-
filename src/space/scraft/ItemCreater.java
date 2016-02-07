@@ -13,7 +13,7 @@ import space.scraft.topics.Item;
 import space.scraft.topics.LifeBooster;
 
 /**
- * @author sbarik
+ * @author Satya Shekhar Barik
  * 
  */
 public class ItemCreater {

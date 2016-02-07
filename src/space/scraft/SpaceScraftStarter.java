@@ -1,3 +1,6 @@
+/**
+ * These sample code is meant for open use - satya
+ */
 package space.scraft;
 
 import java.applet.Applet;
@@ -29,7 +32,7 @@ import space.scraft.topics.Stone;
  * 7. Bullet speed should increase after certain period of time and up to a specific limit (initial done)
  * 8. Levels (can be consider after one level is complete) (initial done)
  * 
- * @author sbarik
+ * @author Satya Shekhar Barik
  * 
  */
 public class SpaceScraftStarter extends Applet implements Runnable, KeyListener {
